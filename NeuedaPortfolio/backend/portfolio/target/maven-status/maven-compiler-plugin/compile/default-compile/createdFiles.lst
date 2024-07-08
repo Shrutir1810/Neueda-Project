@@ -1,0 +1,5 @@
+com\example\portfolio\service\FirebaseService.class
+com\example\portfolio\controller\RestControllerUser.class
+com\example\portfolio\objects\User.class
+com\example\portfolio\service\FirebaseInitialize.class
+com\example\portfolio\PortfolioApplication.class
